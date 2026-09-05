@@ -1,0 +1,39 @@
+# Save at:  .github/workflows/leetcode-sync.yml
+name: LeetCode Daily Sync
+
+on:
+  schedule:
+    - cron: '30 17 * * *'      # 23:00 IST (GitHub cron is UTC)
+  workflow_dispatch:            # lets you run it by hand from the Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests
+
+      - name: Sync LeetCode → Notion
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          NOTION_KEY:       ${{ secrets.NOTION_KEY }}
+        run: python scripts/leetcode_sync.py
+
+      - name: Commit stats if anything changed
+        run: |
+          git config user.name  "leetcode-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing solved today — no commit, no fake green square."
+          else
+            git commit -m "chore: leetcode sync $(date -u +%F)"
+            git push
+          fi
