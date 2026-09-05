@@ -1,0 +1,24 @@
+{
+  "updated": "2026-09-05",
+  "totals": [
+    {
+      "difficulty": "All",
+      "count": 109
+    },
+    {
+      "difficulty": "Easy",
+      "count": 42
+    },
+    {
+      "difficulty": "Medium",
+      "count": 51
+    },
+    {
+      "difficulty": "Hard",
+      "count": 16
+    }
+  ],
+  "solved_today": [
+    "Smallest Stable Index II"
+  ]
+}
