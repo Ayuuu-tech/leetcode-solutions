@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "totals": [
     {
       "difficulty": "All",
-      "count": 109
+      "count": 110
     },
     {
       "difficulty": "Easy",
@@ -15,10 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 16
+      "count": 17
     }
   ],
   "solved_today": [
-    "Smallest Stable Index II"
+    "Distinct Subsequences"
   ]
 }
