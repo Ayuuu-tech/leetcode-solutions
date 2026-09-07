@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "totals": [
     {
       "difficulty": "All",
-      "count": 110
+      "count": 111
     },
     {
       "difficulty": "Easy",
@@ -15,10 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 17
+      "count": 18
     }
   ],
   "solved_today": [
-    "Distinct Subsequences"
+    "Distinct Subsequences II"
   ]
 }
