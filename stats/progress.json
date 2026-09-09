@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "totals": [
     {
       "difficulty": "All",
-      "count": 115
+      "count": 116
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 52
+      "count": 53
     },
     {
       "difficulty": "Hard",
@@ -19,12 +19,6 @@
     }
   ],
   "solved_today": [
-    "Two Sum",
-    "Subarray Sum Equals K",
-    "Find the Middle Index in Array",
-    "Range Sum Query - Immutable",
-    "Running Sum of 1d Array",
-    "Reverse String",
-    "Count Commas in Range"
+    "Count Commas in Range II"
   ]
 }
