@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "totals": [
     {
       "difficulty": "All",
-      "count": 116
+      "count": 117
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 53
+      "count": 54
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,6 @@
     }
   ],
   "solved_today": [
-    "Count Commas in Range II"
+    "Count Nodes Equal to Average of Subtree"
   ]
 }
