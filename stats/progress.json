@@ -1,24 +1,27 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "totals": [
     {
       "difficulty": "All",
-      "count": 118
+      "count": 122
     },
     {
       "difficulty": "Easy",
-      "count": 46
+      "count": 47
     },
     {
       "difficulty": "Medium",
-      "count": 54
+      "count": 56
     },
     {
       "difficulty": "Hard",
-      "count": 18
+      "count": 19
     }
   ],
   "solved_today": [
-    "Unique 3-Digit Even Numbers"
+    "Minimum Days to Score Exactly N Points",
+    "Count Values With Equally Spaced Occurrences II",
+    "Count Values With Equally Spaced Occurrences I",
+    "Maximum Score of Non-overlapping Intervals"
   ]
 }
