@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "totals": [
     {
       "difficulty": "All",
-      "count": 122
+      "count": 123
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 56
+      "count": 57
     },
     {
       "difficulty": "Hard",
@@ -19,9 +19,6 @@
     }
   ],
   "solved_today": [
-    "Minimum Days to Score Exactly N Points",
-    "Count Values With Equally Spaced Occurrences II",
-    "Count Values With Equally Spaced Occurrences I",
-    "Maximum Score of Non-overlapping Intervals"
+    "Image Overlap"
   ]
 }
