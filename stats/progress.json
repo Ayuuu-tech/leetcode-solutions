@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "totals": [
     {
       "difficulty": "All",
-      "count": 124
+      "count": 127
     },
     {
       "difficulty": "Easy",
-      "count": 48
+      "count": 50
     },
     {
       "difficulty": "Medium",
@@ -15,10 +15,20 @@
     },
     {
       "difficulty": "Hard",
-      "count": 19
+      "count": 20
     }
   ],
   "solved_today": [
-    "Rectangle Overlap"
+    "Maximum Number of Non-overlapping Palindrome Substrings",
+    "Isomorphic Strings",
+    "First Unique Character in a String",
+    "Majority Element",
+    "Subarray Sum Equals K",
+    "Valid Anagram",
+    "Contains Duplicate",
+    "Two Sum",
+    "Find Pivot Index",
+    "Range Sum Query - Immutable",
+    "Running Sum of 1d Array"
   ]
 }
