@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "totals": [
     {
       "difficulty": "All",
-      "count": 127
+      "count": 132
     },
     {
       "difficulty": "Easy",
-      "count": 50
+      "count": 54
     },
     {
       "difficulty": "Medium",
-      "count": 57
+      "count": 58
     },
     {
       "difficulty": "Hard",
@@ -19,16 +19,14 @@
     }
   ],
   "solved_today": [
-    "Maximum Number of Non-overlapping Palindrome Substrings",
-    "Isomorphic Strings",
-    "First Unique Character in a String",
-    "Majority Element",
+    "Number of Sets of K Non-Overlapping Line Segments",
     "Subarray Sum Equals K",
-    "Valid Anagram",
-    "Contains Duplicate",
-    "Two Sum",
-    "Find Pivot Index",
-    "Range Sum Query - Immutable",
-    "Running Sum of 1d Array"
+    "Valid Palindrome II",
+    "Remove Element",
+    "Move Zeroes",
+    "Remove Duplicates from Sorted Array",
+    "Reverse String",
+    "Word Pattern",
+    "Isomorphic Strings"
   ]
 }
