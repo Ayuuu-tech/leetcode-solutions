@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "totals": [
     {
       "difficulty": "All",
-      "count": 132
+      "count": 133
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 58
+      "count": 59
     },
     {
       "difficulty": "Hard",
@@ -19,14 +19,12 @@
     }
   ],
   "solved_today": [
-    "Number of Sets of K Non-Overlapping Line Segments",
-    "Subarray Sum Equals K",
-    "Valid Palindrome II",
-    "Remove Element",
-    "Move Zeroes",
-    "Remove Duplicates from Sorted Array",
-    "Reverse String",
-    "Word Pattern",
-    "Isomorphic Strings"
+    "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "Product of Array Except Self",
+    "Two Sum II - Input Array Is Sorted",
+    "Range Sum Query - Immutable",
+    "Contains Duplicate",
+    "Valid Anagram",
+    "Container With Most Water"
   ]
 }
