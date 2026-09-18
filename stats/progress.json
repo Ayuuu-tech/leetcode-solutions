@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "totals": [
     {
       "difficulty": "All",
-      "count": 133
+      "count": 134
     },
     {
       "difficulty": "Easy",
@@ -15,16 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 20
+      "count": 21
     }
   ],
   "solved_today": [
-    "Find Two Non-overlapping Sub-arrays Each With Target Sum",
-    "Product of Array Except Self",
-    "Two Sum II - Input Array Is Sorted",
-    "Range Sum Query - Immutable",
-    "Contains Duplicate",
-    "Valid Anagram",
-    "Container With Most Water"
+    "Maximum Number of Non-Overlapping Substrings"
   ]
 }
