@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "totals": [
     {
       "difficulty": "All",
-      "count": 134
+      "count": 135
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 59
+      "count": 60
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,6 @@
     }
   ],
   "solved_today": [
-    "Maximum Number of Non-Overlapping Substrings"
+    "Circle and Rectangle Overlapping"
   ]
 }
