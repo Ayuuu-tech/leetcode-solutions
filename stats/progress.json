@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "totals": [
     {
       "difficulty": "All",
-      "count": 140
+      "count": 141
     },
     {
       "difficulty": "Easy",
@@ -15,11 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 22
+      "count": 23
     }
   ],
   "solved_today": [
-    "Smallest Index With Digit Sum Equal to Index",
-    "Find First and Last Position of Element in Sorted Array"
+    "Brace Expansion II"
   ]
 }
