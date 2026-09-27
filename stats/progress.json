@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "totals": [
     {
       "difficulty": "All",
-      "count": 142
+      "count": 143
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 63
+      "count": 64
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,6 @@
     }
   ],
   "solved_today": [
-    "Evaluate the Bracket Pairs of a String"
+    "Reverse Substrings Between Each Pair of Parentheses"
   ]
 }
