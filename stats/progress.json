@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "totals": [
     {
       "difficulty": "All",
-      "count": 145
+      "count": 146
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 64
+      "count": 65
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,6 @@
     }
   ],
   "solved_today": [
-    " Check if There Is a Valid Parentheses String Path"
+    "Maximum Nesting Depth of Two Valid Parentheses Strings"
   ]
 }
