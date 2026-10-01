@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "totals": [
     {
       "difficulty": "All",
-      "count": 146
+      "count": 147
     },
     {
       "difficulty": "Easy",
-      "count": 57
+      "count": 58
     },
     {
       "difficulty": "Medium",
@@ -19,6 +19,8 @@
     }
   ],
   "solved_today": [
-    "Maximum Nesting Depth of Two Valid Parentheses Strings"
+    "Range Sum Query - Immutable",
+    "Running Sum of 1d Array",
+    "Valid Parentheses"
   ]
 }
