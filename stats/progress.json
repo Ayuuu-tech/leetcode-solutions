@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "totals": [
     {
       "difficulty": "All",
-      "count": 147
+      "count": 148
     },
     {
       "difficulty": "Easy",
-      "count": 58
+      "count": 59
     },
     {
       "difficulty": "Medium",
@@ -19,8 +19,7 @@
     }
   ],
   "solved_today": [
-    "Range Sum Query - Immutable",
-    "Running Sum of 1d Array",
-    "Valid Parentheses"
+    "Generate Parentheses",
+    "Search Insert Position"
   ]
 }
