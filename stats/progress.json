@@ -1,30 +1,41 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "totals": [
     {
       "difficulty": "All",
-      "count": 152
+      "count": 162
     },
     {
       "difficulty": "Easy",
-      "count": 63
+      "count": 66
     },
     {
       "difficulty": "Medium",
-      "count": 65
+      "count": 71
     },
     {
       "difficulty": "Hard",
-      "count": 24
+      "count": 25
     }
   ],
   "solved_today": [
-    "Reshape the Matrix",
-    "Transpose Matrix",
-    "Matrix Diagonal Sum",
-    "Kth Missing Positive Number",
-    "Arranging Coins",
-    "Sqrt(x)",
-    "Find First and Last Position of Element in Sorted Array"
+    "Valid Anagram",
+    "Two Sum",
+    "Set Matrix Zeroes",
+    "Spiral Matrix",
+    "Rotate Image",
+    "Search a 2D Matrix",
+    "Peak Index in a Mountain Array",
+    "Find Peak Element",
+    "Find Minimum in Rotated Sorted Array",
+    "Search in Rotated Sorted Array",
+    "Is Subsequence",
+    "Merge Sorted Array",
+    "Move Zeroes",
+    "Longest Valid Parentheses",
+    "Count Negative Numbers in a Sorted Matrix",
+    "Flipping an Image",
+    "Convert 1D Array Into 2D Array",
+    "Valid Parenthesis String"
   ]
 }
