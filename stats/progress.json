@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "totals": [
     {
       "difficulty": "All",
@@ -19,23 +19,9 @@
     }
   ],
   "solved_today": [
-    "Valid Anagram",
-    "Two Sum",
-    "Set Matrix Zeroes",
-    "Spiral Matrix",
-    "Rotate Image",
-    "Search a 2D Matrix",
-    "Peak Index in a Mountain Array",
-    "Find Peak Element",
-    "Find Minimum in Rotated Sorted Array",
+    "Kth Missing Positive Number",
     "Search in Rotated Sorted Array",
-    "Is Subsequence",
-    "Merge Sorted Array",
-    "Move Zeroes",
-    "Longest Valid Parentheses",
-    "Count Negative Numbers in a Sorted Matrix",
-    "Flipping an Image",
-    "Convert 1D Array Into 2D Array",
-    "Valid Parenthesis String"
+    "Sqrt(x)",
+    "Binary Search"
   ]
 }
