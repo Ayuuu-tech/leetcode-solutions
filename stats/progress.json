@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "totals": [
     {
       "difficulty": "All",
-      "count": 162
+      "count": 163
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 71
+      "count": 72
     },
     {
       "difficulty": "Hard",
@@ -19,9 +19,6 @@
     }
   ],
   "solved_today": [
-    "Kth Missing Positive Number",
-    "Search in Rotated Sorted Array",
-    "Sqrt(x)",
-    "Binary Search"
+    "Minimum Add to Make Parentheses Valid"
   ]
 }
