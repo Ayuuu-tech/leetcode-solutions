@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
