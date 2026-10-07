@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "totals": [
     {
       "difficulty": "All",
-      "count": 163
+      "count": 165
     },
     {
       "difficulty": "Easy",
-      "count": 66
+      "count": 67
     },
     {
       "difficulty": "Medium",
@@ -15,10 +15,11 @@
     },
     {
       "difficulty": "Hard",
-      "count": 25
+      "count": 26
     }
   ],
   "solved_today": [
-    "Minimum Add to Make Parentheses Valid"
+    "Palindrome Number",
+    "Remove Invalid Parentheses"
   ]
 }
