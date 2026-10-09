@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "totals": [
     {
       "difficulty": "All",
-      "count": 166
+      "count": 167
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 72
+      "count": 73
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,6 @@
     }
   ],
   "solved_today": [
-    "Remove Outermost Parentheses"
+    "Minimum Insertions to Balance a Parentheses String"
   ]
 }
