@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0301-remove-invalid-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Stack
 |  |
@@ -31,5 +33,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
