@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "totals": [
     {
       "difficulty": "All",
-      "count": 167
+      "count": 170
     },
     {
       "difficulty": "Easy",
-      "count": 68
+      "count": 69
     },
     {
       "difficulty": "Medium",
-      "count": 73
+      "count": 75
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,8 @@
     }
   ],
   "solved_today": [
-    "Minimum Insertions to Balance a Parentheses String"
+    "Integer to Roman",
+    "Roman to Integer",
+    "Minimum Sum of Squared Difference"
   ]
 }
