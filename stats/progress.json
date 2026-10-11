@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "totals": [
     {
       "difficulty": "All",
-      "count": 170
+      "count": 171
     },
     {
       "difficulty": "Easy",
-      "count": 69
+      "count": 70
     },
     {
       "difficulty": "Medium",
@@ -19,8 +19,6 @@
     }
   ],
   "solved_today": [
-    "Integer to Roman",
-    "Roman to Integer",
-    "Minimum Sum of Squared Difference"
+    "Sum of Squares of Special Elements "
   ]
 }
