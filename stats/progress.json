@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "totals": [
     {
       "difficulty": "All",
-      "count": 171
+      "count": 172
     },
     {
       "difficulty": "Easy",
@@ -15,10 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 26
+      "count": 27
     }
   ],
   "solved_today": [
-    "Sum of Squares of Special Elements "
+    "Apply Operations on Array to Maximize Sum of Squares"
   ]
 }
