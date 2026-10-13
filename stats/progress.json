@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "totals": [
     {
       "difficulty": "All",
-      "count": 172
+      "count": 174
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 75
+      "count": 77
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,7 @@
     }
   ],
   "solved_today": [
-    "Apply Operations on Array to Maximize Sum of Squares"
+    "Longest Substring Without Repeating Characters",
+    "Maximum Alternating Sum of Squares"
   ]
 }
