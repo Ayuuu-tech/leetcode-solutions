@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
