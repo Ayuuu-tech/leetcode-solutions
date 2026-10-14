@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "totals": [
     {
       "difficulty": "All",
-      "count": 174
+      "count": 175
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 77
+      "count": 78
     },
     {
       "difficulty": "Hard",
@@ -19,7 +19,6 @@
     }
   ],
   "solved_today": [
-    "Longest Substring Without Repeating Characters",
-    "Maximum Alternating Sum of Squares"
+    "Maximize Sum of Squares of Digits"
   ]
 }
