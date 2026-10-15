@@ -38,9 +38,11 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Array
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
