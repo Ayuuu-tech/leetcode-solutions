@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "totals": [
     {
       "difficulty": "All",
-      "count": 175
+      "count": 176
     },
     {
       "difficulty": "Easy",
-      "count": 70
+      "count": 71
     },
     {
       "difficulty": "Medium",
@@ -19,6 +19,7 @@
     }
   ],
   "solved_today": [
-    "Maximize Sum of Squares of Digits"
+    "Subarrays Distinct Element Sum of Squares I",
+    "Reverse Linked List"
   ]
 }
