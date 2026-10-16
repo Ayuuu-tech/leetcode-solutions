@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "totals": [
     {
       "difficulty": "All",
-      "count": 176
+      "count": 177
     },
     {
       "difficulty": "Easy",
@@ -15,11 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 27
+      "count": 28
     }
   ],
   "solved_today": [
-    "Subarrays Distinct Element Sum of Squares I",
-    "Reverse Linked List"
+    "Subarrays Distinct Element Sum of Squares II"
   ]
 }
