@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-19",
   "totals": [
     {
       "difficulty": "All",
-      "count": 178
+      "count": 180
     },
     {
       "difficulty": "Easy",
-      "count": 71
+      "count": 72
     },
     {
       "difficulty": "Medium",
@@ -15,10 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 28
+      "count": 29
     }
   ],
   "solved_today": [
-    "Minimum Swaps to Sort by Digit Sum"
+    "Find Target Indices After Sorting Array"
   ]
 }
