@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
