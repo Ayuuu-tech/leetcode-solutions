@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
