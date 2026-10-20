@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "totals": [
     {
       "difficulty": "All",
-      "count": 180
+      "count": 182
     },
     {
       "difficulty": "Easy",
@@ -11,14 +11,15 @@
     },
     {
       "difficulty": "Medium",
-      "count": 79
+      "count": 80
     },
     {
       "difficulty": "Hard",
-      "count": 29
+      "count": 30
     }
   ],
   "solved_today": [
-    "Find Target Indices After Sorting Array"
+    "Sum of Sortable Integers",
+    "Sum of Two Integers"
   ]
 }
