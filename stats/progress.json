@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "totals": [
     {
       "difficulty": "All",
-      "count": 182
+      "count": 183
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 80
+      "count": 81
     },
     {
       "difficulty": "Hard",
@@ -19,7 +19,6 @@
     }
   ],
   "solved_today": [
-    "Sum of Sortable Integers",
-    "Sum of Two Integers"
+    "Minimum Operations to Sort a String"
   ]
 }
