@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "totals": [
     {
       "difficulty": "All",
-      "count": 183
+      "count": 186
     },
     {
       "difficulty": "Easy",
-      "count": 72
+      "count": 74
     },
     {
       "difficulty": "Medium",
-      "count": 81
+      "count": 82
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,8 @@
     }
   ],
   "solved_today": [
-    "Minimum Operations to Sort a String"
+    "Minimum Operations to Sort a Permutation",
+    "Same Tree",
+    "Maximum Depth of Binary Tree"
   ]
 }
