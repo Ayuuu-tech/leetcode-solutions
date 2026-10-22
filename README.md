@@ -16,6 +16,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Math
 |  |
@@ -84,4 +85,16 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
