@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0301-remove-invalid-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -30,10 +31,12 @@
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Hash Table
 |  |
