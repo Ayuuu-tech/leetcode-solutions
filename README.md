@@ -70,6 +70,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -106,4 +107,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
