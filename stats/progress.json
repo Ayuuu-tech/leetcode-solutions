@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-24",
   "totals": [
     {
       "difficulty": "All",
-      "count": 186
+      "count": 191
     },
     {
       "difficulty": "Easy",
-      "count": 74
+      "count": 77
     },
     {
       "difficulty": "Medium",
-      "count": 82
+      "count": 84
     },
     {
       "difficulty": "Hard",
@@ -19,8 +19,10 @@
     }
   ],
   "solved_today": [
-    "Minimum Operations to Sort a Permutation",
-    "Same Tree",
-    "Maximum Depth of Binary Tree"
+    "Middle of the Linked List",
+    "Remove Duplicates from Sorted List II",
+    "Remove Duplicates from Sorted List",
+    "Count Days Spent Together",
+    "Score of Parentheses"
   ]
 }
