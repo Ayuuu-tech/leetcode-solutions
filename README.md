@@ -10,6 +10,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
