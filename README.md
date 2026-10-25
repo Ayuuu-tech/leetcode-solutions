@@ -33,6 +33,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -47,10 +48,12 @@
 | [0012-integer-to-roman](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
