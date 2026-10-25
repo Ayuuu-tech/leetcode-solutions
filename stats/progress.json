@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "totals": [
     {
       "difficulty": "All",
-      "count": 191
+      "count": 194
     },
     {
       "difficulty": "Easy",
-      "count": 77
+      "count": 80
     },
     {
       "difficulty": "Medium",
@@ -19,10 +19,10 @@
     }
   ],
   "solved_today": [
-    "Middle of the Linked List",
-    "Remove Duplicates from Sorted List II",
-    "Remove Duplicates from Sorted List",
-    "Count Days Spent Together",
-    "Score of Parentheses"
+    "Palindrome Number",
+    "Next Greater Element I",
+    "Merge Two Sorted Lists",
+    "Reverse Linked List",
+    "Remove Nth Node From End of List"
   ]
 }
