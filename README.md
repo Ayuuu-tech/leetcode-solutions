@@ -71,6 +71,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -78,6 +79,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Indexed Tree
 |  |
