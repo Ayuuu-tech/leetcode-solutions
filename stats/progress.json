@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "totals": [
     {
       "difficulty": "All",
@@ -19,10 +19,6 @@
     }
   ],
   "solved_today": [
-    "Palindrome Number",
-    "Next Greater Element I",
-    "Merge Two Sorted Lists",
-    "Reverse Linked List",
-    "Remove Nth Node From End of List"
+    "Reverse Linked List"
   ]
 }
