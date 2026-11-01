@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-01",
   "totals": [
     {
       "difficulty": "All",
-      "count": 194
+      "count": 195
     },
     {
       "difficulty": "Easy",
@@ -11,7 +11,7 @@
     },
     {
       "difficulty": "Medium",
-      "count": 84
+      "count": 85
     },
     {
       "difficulty": "Hard",
@@ -19,6 +19,6 @@
     }
   ],
   "solved_today": [
-    "Reverse Linked List"
+    "Minimum Moves to Equal Array Elements"
   ]
 }
