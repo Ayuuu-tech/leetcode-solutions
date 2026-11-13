@@ -36,6 +36,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +133,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
