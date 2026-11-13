@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-13",
   "totals": [
     {
       "difficulty": "All",
-      "count": 195
+      "count": 196
     },
     {
       "difficulty": "Easy",
@@ -15,10 +15,10 @@
     },
     {
       "difficulty": "Hard",
-      "count": 30
+      "count": 31
     }
   ],
   "solved_today": [
-    "Minimum Moves to Equal Array Elements"
+    "Count Non-Decreasing Subarrays After K Operations"
   ]
 }
