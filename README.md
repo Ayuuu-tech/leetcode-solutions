@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0496-next-greater-element-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -122,6 +123,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayuuu-tech/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
